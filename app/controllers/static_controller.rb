@@ -1,4 +1,4 @@
 class StaticController < ApplicationController
-def render ""
-end
+ def render ""
+ end
 end
